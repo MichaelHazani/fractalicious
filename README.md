@@ -2,7 +2,7 @@
 ## A Fun Foray into Fractal Flowerpots 
 ### live @ [http://fractalicio.us](http://fractalicio.us)
 
-![alt](https://raw.githubusercontent.com/MichaelHazani/three-go/master/scr.png)
+![alt](https://github.com/MichaelHazani/fractalicious/blob/master/fractalicious.gif)
 
 ## TODO
 Make a twitter bot out of this thing.
